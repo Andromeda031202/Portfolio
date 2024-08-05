@@ -1,0 +1,23 @@
+body{
+    background-image: url('46.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    border: 2PX solid rgb(243, 243, 199);
+}
+
+h1{
+    color: lightgoldenrodyellow;
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+div{ margin: 40px;
+    color: lightgoldenrodyellow;
+}
+
+h2{
+    color:rgb(226, 148, 117);
+    text-decoration: underline;
+    }
+

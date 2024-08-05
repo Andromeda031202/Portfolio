@@ -1,0 +1,63 @@
+body{
+    background-image: url('44.jpg');
+    background-attachment: fixed ;
+    background-size: cover;
+    border: 2px solid white;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+text-decoration: 2px whitesmoke underline  ;
+padding: 2px;
+}
+
+h3{
+    color:rgb(155, 243, 243);
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+
+}
+
+p{
+    color:rgb(155, 243, 243);
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+
+}
+
+a:link{
+    
+    color: rgb(150, 247, 214);
+    font-size: 20px;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+a:visited{
+    color:bisque;
+    text-decoration: none;
+    font-size: 40px;
+font-family: cursive;
+}
+
+section{
+    text-align: center;
+}
+
+footer{
+    color:rgb(194, 167, 219);
+    font-size: 20px;
+    margin: 20px;
+}
+ 
+a{
+    color: azure;
+    text-decoration: none;
+
+ }
+

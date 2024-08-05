@@ -1,0 +1,31 @@
+body{
+    background-image: url('45.jpg');
+    border: 2px solid lightblue;
+    margin: 40PX;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+H2{
+    color: rgb(203, 165, 238);
+    font-size: 25PX;
+    MARGIN: 42PX;
+text-decoration: underline;
+
+}
+
+PRE{
+    margin: 50PX;
+    color: beige;
+    font-size: 25PX;
+    font-family: cursive;
+    text-align: left;
+}
+
+H1{
+    color: rgb(232, 167, 221);
+    font-size: 60PX;
+    MARGIN: 42PX;
+text-decoration: underline;
+text-align: center; 
+}
